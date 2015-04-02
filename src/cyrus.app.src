@@ -1,0 +1,7 @@
+{application, cyrus, [
+    {description, "Cyrus SASL bindings"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []}
+]}.
